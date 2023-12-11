@@ -1,0 +1,10 @@
+@relation input_MinMax_weka-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-unset-class-temporarily
+
+@attribute Data numeric
+
+@data
+0
+1
+0.254545
+0.636364
+0.781818
